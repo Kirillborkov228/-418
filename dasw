@@ -1,0 +1,8 @@
+class MyClass {
+    constructor() {
+        this.name = "Студент";
+    }
+    sayHello() {
+        console.log("Привет из VS Code!");
+    }
+}
